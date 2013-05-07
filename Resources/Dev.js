@@ -9,4 +9,4 @@ exports.infArray = function (array){
 	for (var i = 0, l= array.length; i < l; i++){
 		Ti.API.info(array[i]);
 	};
-};
+}; 
