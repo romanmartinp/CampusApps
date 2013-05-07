@@ -1,3 +1,5 @@
+// Developer Module
+
 exports.inf = function (){
 	for (var i = 0, l= arguments.length; i < l; i++){
 		Ti.API.info(arguments[i]);
